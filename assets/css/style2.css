@@ -45,8 +45,6 @@ top:0;
   height:80px;
   background: white;
     margin-bottom: 40px;
-
-
     z-index: 1;
 
 }
@@ -72,46 +70,14 @@ li {
     display: inline-block;
 }
 
-
-.btn {
-    border: none;
-    background-color: inherit;
-    padding: 28px 28px;
-    font-size: 20px;
-    cursor: pointer;
-    display: inline-block;
-        position: fixed;
-            z-index: 3;
-            top:0;
-
-
-}
-
-.btn:hover {background: #eee;}
-
-.About {color: grey;
-right:270px;
-           }
-.Portfolio {color: grey;
-  right:140px;}
-
-.Contact {color: grey;
-  right:20px;}
-
-
-
 .entire {
     position: relative;
     margin-top:100px;
     margin-left: 32px;
     margin-right: 32px;
 	width: 100%;
-;
-
 
 }
-
-
 
 .section {
   /* Absolute Position */
@@ -139,7 +105,6 @@ right:270px;
 	background: white;
 	width:270px;
 	padding:30px;
-
 }
 
 
@@ -164,13 +129,8 @@ right:270px;
     margin-left:20px;
 }
 
-
-
-
 #Connect-with-me {
 	width: 270px;
-	  
-
 }
 
 h1 {
@@ -189,6 +149,8 @@ h3 {
 
 }
 
+
+/*Formating submit form*/
 input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
